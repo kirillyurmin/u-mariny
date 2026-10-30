@@ -1,7 +1,7 @@
 import { useEffect } from 'react';
 import { useReveal } from '../hooks/useReveal';
 import { usePageTitle } from '../hooks/usePageTitle';
-import aboutMainImg from '../assets/about-main.jpg';
+import aboutMainImg from '../assets/about-main.jpeg';
 
 export default function About() {
   usePageTitle('О нас');
