@@ -84,7 +84,7 @@
     align-items: center;
     background:
       linear-gradient(rgba(74, 20, 32, 0.6), rgba(74, 20, 32, 0.6)),
-      url('https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=1600&q=80') center/cover;
+      url('https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=900&q=70&auto=format') center/cover;
     color: #fff;
     text-align: center;
     padding: 60px 24px;
